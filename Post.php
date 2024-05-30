@@ -1,3 +1,6 @@
+<?php
+
+
 class Post
 {
     private $db;
@@ -48,3 +51,4 @@ class Post
         $stmt->execute();
     }
 }
+?>
